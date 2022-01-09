@@ -17,10 +17,15 @@
   left: 20px;
   width: 80px;
   object-fit: contain;
+  color: red;
+  letter-spacing: 1.5px;
 }
 .nav_avatar {
   position: fixed;
   right: 20px;
   width: 30px;
   object-fit: contain;
+  color: white;
+  padding-right: 50px;
+  letter-spacing: 1.5px;
 }

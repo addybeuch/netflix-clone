@@ -16,16 +16,18 @@ function Nav() {
 
   return (
     <div className={`nav ${show && "nav_black"}`}>
-      <img
+      <h2 className="nav_logo">Netflix</h2>
+      {/* <img
         className="nav_logo"
         src="https://en.wikipedia.org/wiki/Netflix#/media/File:Netflix_2015_logo.svg"
         alt="Netflix Logo"
-      />
-      <img
+      /> */}
+      <h2 className="nav_avatar">Profile</h2>
+      {/* <img
         className="nav_avatar"
         src="https://en.wikipedia.org/wiki/Netflix#/media/File:Netflix_2015_logo.svg"
         alt="Avatar Logo"
-      />
+      /> */}
     </div>
   );
 }

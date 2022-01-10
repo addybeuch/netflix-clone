@@ -18,7 +18,7 @@
   width: 80px;
   object-fit: contain;
   color: red;
-  letter-spacing: 1.5px;
+  letter-spacing: 1px;
 }
 .nav_avatar {
   position: fixed;
@@ -27,5 +27,5 @@
   object-fit: contain;
   color: white;
   padding-right: 50px;
-  letter-spacing: 1.5px;
+  letter-spacing: 1px;
 }
